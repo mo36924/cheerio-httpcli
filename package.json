@@ -23,6 +23,7 @@
     "@types/cheerio": "^0.22.1",
     "@types/node": "^7.0.22",
     "async": "^2.4.1",
+    "charset": "^1.0.0",
     "cheerio": "^0.22.0",
     "colors": "^1.1.2",
     "constants": "0.0.2",
